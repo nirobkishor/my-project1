@@ -1,0 +1,34 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.change {
+    width: 50%;
+    padding: 2%;
+}
+
+.background {
+    display: flex;
+}
+
+.essay {
+    margin-bottom: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    color: white;
+    font-weight: 700;
+    border-radius: 40px;
+    padding: 20px 40px;
+}
+
+.word {
+    color: orange;
+}
