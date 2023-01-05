@@ -38,3 +38,16 @@ h1 {
     background-image: url(photos/bg1.jpg);
     background-repeat: no-repeat;
 }
+
+.align {
+    text-align: center;
+}
+
+.recipie-item {
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 30px;
+    border-radius: 40px;
+    box-shadow: 10px 20px 40px gray;
+}
