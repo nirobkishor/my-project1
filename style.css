@@ -81,10 +81,11 @@ h1 {
     margin-right: 2%;
 }
 
-.image-set {
-    width: 50%;
-}
-
 .container-flex {
     display: flex;
+}
+
+img {
+    padding: 2px;
+    width: 400px;
 }
